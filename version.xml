@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/customHeadInjector/version.xml
+  *
+  * Copyright (c) 2026 Oscar R. Gómez <info@menteclara.org>
+  * Distributed under the GNU GPL v3. For full terms see the file LICENSE.
+  *
+  * Plugin version information for Custom Head Injector (MOJP 4.0).
+  -->
+<version>
+	<application>customHeadInjector</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2026-10-20</date>
+	<lazy-load>1</lazy-load>
+	<class>CustomHeadInjectorPlugin</class>
+</version>
