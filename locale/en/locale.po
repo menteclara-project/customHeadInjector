@@ -1,0 +1,36 @@
+# MOJP 4.0 - Custom Head Injector Plugin Locale
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-20T12:00:00+00:00\n"
+"PO-Revision-Date: 2026-10-20 12:00+0000\n"
+"Last-Translator: Fundación MenteClara\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "plugins.generic.customHeadInjector.displayName"
+msgstr "Custom Head Injector"
+
+msgid "plugins.generic.customHeadInjector.description"
+msgstr "Allows journal managers to inject custom HTML code, meta tags, CSS styles, links, and Schema.org structured data directly into the <head> element of pages."
+
+msgid "plugins.generic.customHeadInjector.manager.settings"
+msgstr "Head Injection Settings"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.description"
+msgstr ""
+"<p>Use this space to paste plain text code blocks that "
+"will be automatically included in the header (<code>&lt;head&gt;</code>) of all journal pages.</p>\n"
+"<p>You can include indexing meta tags, custom favicon links, "
+"additional CSS stylesheets, verification scripts, or complete JSON-LD blocks for Schema.org.</p>"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.customHeadCode"
+msgstr "HTML / Meta / Schema Code for Head"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.customHeadCodeInstructions"
+msgstr "Paste here the exact content you wish to inject into the header of the journal pages."

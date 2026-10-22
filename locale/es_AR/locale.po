@@ -1,0 +1,36 @@
+# MOJP 4.0 - Custom Head Injector Plugin Locale
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-20T12:00:00+00:00\n"
+"PO-Revision-Date: 2026-10-20 12:00+0000\n"
+"Last-Translator: Fundación MenteClara\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "plugins.generic.customHeadInjector.displayName"
+msgstr "Inyector de Cabecera Personalizado (Custom Head Injector)"
+
+msgid "plugins.generic.customHeadInjector.description"
+msgstr "Permite a los administradores de la revista inyectar código HTML personalizado, metaetiquetas, estilos CSS, enlaces y esquemas Schema.org directamente en el elemento <head> de las páginas."
+
+msgid "plugins.generic.customHeadInjector.manager.settings"
+msgstr "Opciones de Inyección en el Head"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.description"
+msgstr ""
+"<p>Utilice este espacio para pegar bloques de código en texto plano que "
+"se incluirán automáticamente en la cabecera (<code>&lt;head&gt;</code>) de todas las páginas de la revista.</p>\n"
+"<p>Puede incorporar metaetiquetas de indización, enlaces a favicons personalizados, "
+"hojas de estilo CSS adicionales, scripts de verificación o bloques completos en formato JSON-LD para Schema.org.</p>"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.customHeadCode"
+msgstr "Código HTML / Meta / Schema para el Head"
+
+msgid "plugins.generic.customHeadInjector.manager.settings.customHeadCodeInstructions"
+msgstr "Pegue aquí el contenido exacto que desea inyectar en la cabecera de las páginas de la revista."
