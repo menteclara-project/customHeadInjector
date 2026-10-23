@@ -25,7 +25,9 @@ Instalación
 5. Habilitar el plugin desde la sección de **Ajustes > Módulos > Módulos Genéricos** en el panel de administración de MOJP4.0 o de OJS 3.5.
 6. Entrar a las **Opciones** del módulo y agregar el código deseado en el cuadro de texto.
 
-
+📌 **NOTA DE INSTALACIÓN:**
+ **Si descargas el archivo `.zip`** desde la portada del repositorio, al descomprimirlo dentro de `plugins/generic/` asegúrate de que la carpeta se llame exactamente **customHeadInjector** (quitando el sufijo `-main` que le agrega GitHub).
+**Si quieres instalarlo desde la administración de OJS usando el botón *"Cargar un nuevo módulo"*, descarga directamente el paquete oficial **`customHeadInjector.tar.gz`** desde la sección [Releases v4.0.0](https://github.com/menteclara-project/customHeadInjector/releases/latest).
 
 Licencia
 --------
